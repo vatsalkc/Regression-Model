@@ -1,0 +1,31 @@
+City,Tier,Year,Cost_of_Living_Index,Average_Annual_Salary_INR_Lakhs,Dominating_Sector,Avg_House_Price_per_Sq_Ft_INR
+Mumbai,1,2015,100,8.0,Finance,18000
+Mumbai,1,2020,115,9.5,Finance,21000
+Mumbai,1,2025,135,12.5,Finance,25000
+Delhi NCR,1,2015,85,7.5,Government,12000
+Delhi NCR,1,2020,98,9.0,Services,14500
+Delhi NCR,1,2025,110,11.0,E-commerce,16500
+Bengaluru,1,2015,75,8.5,IT/ITES,8000
+Bengaluru,1,2020,90,11.0,IT,11000
+Bengaluru,1,2025,105,14.0,Tech,14000
+Pune,1,2015,65,7.0,Automotive,6000
+Pune,1,2020,78,9.0,IT/ITES,8500
+Pune,1,2025,90,11.5,IT,11500
+Ahmedabad,1,2015,55,6.0,Textile,3500
+Ahmedabad,1,2020,65,7.5,Trade,5000
+Ahmedabad,1,2025,75,9.0,Trade,6500
+Jaipur,2,2015,45,4.5,Tourism,2500
+Jaipur,2,2020,55,5.5,Tourism,3500
+Jaipur,2,2025,65,7.0,Real Estate,4500
+Lucknow,2,2015,40,4.0,Government,2000
+Lucknow,2,2020,50,5.0,Education,3000
+Lucknow,2,2025,60,6.5,E-commerce,4000
+Coimbatore,2,2015,40,4.5,Textile,3000
+Coimbatore,2,2020,48,5.5,Engineering,4000
+Coimbatore,2,2025,58,7.0,IT/ITES,5500
+Vadodara,3,2015,35,4.0,Petrochemical,1800
+Vadodara,3,2020,40,5.0,Petrochemical,2500
+Vadodara,3,2025,50,6.0,Manufacturing,3500
+Bhubaneswar,3,2015,38,3.5,Government,1500
+Bhubaneswar,3,2020,45,4.5,Education,2500
+Bhubaneswar,3,2025,55,6.0,Education,4000
